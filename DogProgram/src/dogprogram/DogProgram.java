@@ -1,4 +1,4 @@
-package dogprogram;
+package DogProgram;
 
 public class DogProgram {
 	
@@ -15,3 +15,4 @@ public class DogProgram {
 	}
 
 }
+
