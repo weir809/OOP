@@ -1,4 +1,4 @@
-package dogprogram;
+package DogProgram;
 
 public class Dog {
 	
@@ -24,3 +24,4 @@ public class Dog {
 	
 
 }
+
